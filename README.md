@@ -6,7 +6,7 @@ My name is Alexandr, and I am a Java Backend developer. Welcome to my GitHub pro
 - **Programming languages** Java
 - **Frameworks:** Spring, Spring Boot, Hibernate
 - **ORM:** Hibernate
-- **Базы данных:** PostgreSQL, MySQL, MongoDB
+- **DataBase:** PostgreSQL, MySQL, MongoDB
 - **API:** REST
 - **Version control:** Git, GitHub, GitLab
 - **Containerization:** Docker, Docker Compose
