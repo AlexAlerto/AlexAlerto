@@ -11,3 +11,6 @@ My name is Alexandr, and I am a Java Backend developer. Welcome to my GitHub pro
 - **Version control:** Git, GitHub, GitLab
 - **Containerization:** Docker, Docker Compose
 
+## Communication
+- 📧 Mail: [alertoof@gmail.com](mailto:alertooff@gmail.com)
+- 📱 Telegram: [@Alerto](https://t.me/AlertoOff)
